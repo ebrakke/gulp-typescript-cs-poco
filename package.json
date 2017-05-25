@@ -24,6 +24,6 @@
   "dependencies": {
     "gulp-util": "^3.0.7",
     "through2": "^2.0.0",
-    "typescript-cs-poco": "git+https://github.com/ffMathy/typescript-cs-poco.git"
+    "typescript-cs-poco": "git+https://github.com/ebrakke/typescript-cs-poco.git#generate-classes"
   }
 }
